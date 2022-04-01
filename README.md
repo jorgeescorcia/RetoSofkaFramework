@@ -1,6 +1,6 @@
 # RetoSofkaFramework - Plan de Pruebas
 
-# Plan De Pruebas - RetoScreenplaySerenityWeb
+
 
 | Version  | Comentarios |Fecha|Descripción|Responsable|
 |----------|:-------------:|------:|-------:|---------|
