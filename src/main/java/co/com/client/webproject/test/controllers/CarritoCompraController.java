@@ -1,7 +1,7 @@
 package co.com.client.webproject.test.controllers;
 
 
-import co.com.client.webproject.test.page.CarritoComprasPage;
+import co.com.client.webproject.test.page.carrito.CarritoComprasPage;
 import co.com.sofka.test.actions.WebAction;
 import co.com.sofka.test.evidence.reports.Report;
 import co.com.sofka.test.exceptions.WebActionsException;

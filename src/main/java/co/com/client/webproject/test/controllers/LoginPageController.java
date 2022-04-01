@@ -1,6 +1,6 @@
 package co.com.client.webproject.test.controllers;
 
-import co.com.client.webproject.test.page.LandingPage;
+import co.com.client.webproject.test.page.landing.LandingPage;
 import co.com.sofka.test.actions.WebAction;
 import co.com.sofka.test.evidence.reports.Report;
 import co.com.sofka.test.exceptions.WebActionsException;

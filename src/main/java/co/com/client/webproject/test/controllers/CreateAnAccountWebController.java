@@ -1,7 +1,7 @@
 package co.com.client.webproject.test.controllers;
 
 import co.com.client.webproject.test.model.Customer;
-import co.com.client.webproject.test.page.CreateAnAccountPage;
+import co.com.client.webproject.test.page.register.CreateAnAccountPage;
 import co.com.sofka.test.actions.WebAction;
 import co.com.sofka.test.evidence.reports.Report;
 import co.com.sofka.test.exceptions.WebActionsException;
